@@ -1,1 +1,16 @@
 On this text file I will be explaining the commands I use on steps 5 and 6.
+
+Exercise 5:
+
+First, we use the command Desktop\DAM\Exercise_unit_5 to navigate through our folders. 
+The directory is already initialized as a git repository from the firsts steps. If it wasn't, we would have needed to use the command git init to do it.
+After that, we write "The hare and the turtle.txt" to open the file we want to modify.
+Once we have modify it, we use the command git add . to stage the changes. 
+Then we use the command git commit -m "Commit step 5" to commit the changes.
+Lastly, we push the file to our GitHub repository using git push. 
+
+Exercise 6:
+
+We just need to repeat the steps on the Exercise 5. Once we have created the new file, we just need to stage it, commit it and push it. 
+We are already in the right folder and the directory is already initialized so we don't need to do anything before.
+We are just going to stage it with git add ., commit it with git commit -m "Commit step 6" and push it with git push.
